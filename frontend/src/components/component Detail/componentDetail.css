@@ -1,0 +1,95 @@
+.content {
+  padding: 4% 12%;
+  margin-top: 32px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main-detail {
+  width: 670px;
+  height: 670px;
+  margin-right: 2rem;
+}
+.site {
+  font-size: large;
+  font-style: italic;
+  text-decoration: underline;
+  color: #d2c9d6;
+}
+.detail-image {
+  margin-top: 3rem;
+
+  width: 600px;
+  height: 590px;
+}
+.prodata {
+  margin-top: 10px;
+  margin-right: 4px;
+  margin-left: 2rem;
+  width: 800px;
+  height: 500px;
+
+  color: aliceblue;
+}
+.content {
+  background-image: linear-gradient(to left, black, grey);
+  height: 90vh;
+}
+.color-nav {
+  background-color: black !important;
+  padding: 15px;
+  margin-bottom: 0;
+}
+.titleText {
+  font-size: 50px;
+  margin-top: 5px;
+
+  font-weight: bold;
+}
+.descText {
+  font-size: 30px;
+}
+.priceText {
+  font-size: 25px;
+}
+.cartBtn {
+  width: 35% !important;
+  height: 55px !important;
+  font-size: 25px;
+  margin-top: 20px;
+  border-radius: 16px;
+  color: #dfd3eb;
+  background-color: blueviolet;
+  border-color: blueviolet;
+}
+.btnInc {
+  width: 30% !important;
+  height: 15% !important;
+  font-size: 25px;
+  border-radius: 20px;
+  margin-top: 20px;
+  color: black;
+  background-color: #d2c9d6;
+}
+.btnDec {
+  width: 30% !important;
+  height: 15% !important;
+  font-size: 25px;
+  border-radius: 20px;
+  margin-top: 20px;
+  color: black;
+  margin-right: 20px;
+  background-color: #d2c9d6;
+}
+.buttonss {
+  display: flex;
+  justify-content: center;
+  margin-right: 400px;
+}
+.countText {
+  margin-top: 18px;
+  margin-right: 20px;
+  font-size: 30px;
+}

@@ -1,0 +1,87 @@
+.selection-container {
+  margin-top: 1.2rem;
+  position: relative;
+  width: 100%;
+  height: 620px;
+}
+.selection-wrapper {
+  margin-top: 2rem;
+  width: 100%;
+  height: 550px;
+  display: flex;
+  justify-content: space-around;
+}
+.selection-box {
+  margin-top: 3.5rem;
+  border: 2px solid blue;
+  width: 420px;
+  height: 480px;
+}
+.first-part {
+  width: 100%;
+  height: 330px;
+}
+.first-part img {
+  width: 100%;
+  height: 330px;
+  opacity: 0.9;
+  object-fit: cover;
+}
+.last-part {
+  margin-top: 4px;
+  width: 100%;
+  height: 142px;
+}
+.last-part h2 {
+  margin-top: 1.5rem;
+  text-align: center;
+  background: linear-gradient(120deg, rgb(132, 111, 244), rgb(241, 118, 116));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+.last-part h4 {
+  margin-top: 0.5rem;
+  text-align: center;
+  color: rgb(201, 190, 190);
+}
+.gameimages {
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-around;
+}
+.reqimg {
+  height: 250px;
+  width: 250px;
+  margin-top: 50px;
+}
+.performance {
+  background: linear-gradient(120deg, rgb(132, 111, 244), rgb(241, 118, 116));
+  background-clip: text;
+  display: inline-block;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-top: 10px;
+}
+.bar {
+  background-color: black;
+  margin: 10px;
+}
+.reqdata {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+h2 {
+  color: steelblue;
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}

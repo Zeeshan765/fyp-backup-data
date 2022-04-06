@@ -1,0 +1,34 @@
+.hddtitle {
+  margin-top: 30px;
+  background-color: black;
+  color: purple;
+  text-align: center;
+}
+.hdd {
+  margin: 0px 10px;
+
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: center;
+
+  width: 99%;
+  height: 550px;
+}
+.ssd {
+  margin: 0px 10px;
+
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: center;
+
+  width: 99%;
+  height: 550px;
+}
+.ssdTitle {
+  margin-top: 30px;
+  background-color: black;
+  color: purple;
+  text-align: center;
+}
